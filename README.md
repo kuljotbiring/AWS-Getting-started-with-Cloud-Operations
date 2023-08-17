@@ -1,5 +1,10 @@
 
 # ☁️ Getting Started with Cloud Operations
+<p align="left">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+</p>
 
 AWS Educate Labs
 
